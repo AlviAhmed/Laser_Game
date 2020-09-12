@@ -22,9 +22,9 @@ reflection by having the mirror take the data of the input laser and
 emit in its own beam in return, the data seems to persist in the
 mirror object even when the input laser is no longer there 
 
-[[https://youtu.be/hOesa0XtqLE%20%0A]] 
 
-Video of the glitch in action
+
+Video of the glitch in action: [[https://youtu.be/hOesa0XtqLE%20%0A]] 
 
 [[file:images/persistent_laser_glitch.PNG]] 
 
@@ -34,9 +34,9 @@ Screenshot of the glitch
 
 Fixed the glitch of persistent mirror beams by adding area collisions and enter / exit signals to those specific areas to signify when to stop emitting laser beam
 
-[[https://youtu.be/2RBviVypUFI]] 
 
-Video of mirror reflections working 
+Video of mirror reflections working: [[https://youtu.be/2RBviVypUFI]] 
+
 
 
 [[file:images/demo1.PNG]] 
@@ -51,9 +51,7 @@ The goal is to create an object in which once the laser touches, a timer will st
 This will later be replaced with either a level change or win screen
 UI 
 
-[[https://youtu.be/friZ54WhYjk]] 
-
-Video of charge door puzzle test
+Video of charge door puzzle test: [[https://youtu.be/friZ54WhYjk]] 
 
 
 [[file:images/door_demo.PNG]] 
@@ -82,9 +80,9 @@ The *prism* is like the beam splitter however, it if the input is a secondary co
 
 The *combiner* is able to combine either 2 primary colors to create its corresponding secondary color OR accept 1 secondary color and 1 primary color and create a white beam
 
-[[https://youtu.be/2AyDLWNrRe0]] 
 
-Video of example puzzle using all developed components 
+Video of example puzzle using all developed components: [[https://youtu.be/2AyDLWNrRe0]] 
+
 
 [[file:images/unsovleddemo2.PNG]] 
 
