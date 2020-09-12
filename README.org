@@ -24,7 +24,7 @@ mirror object even when the input laser is no longer there
 
 
 
-Video of the glitch in action: [[https://youtu.be/hOesa0XtqLE%20%0A]] 
+Video of the glitch in action: [[https://youtu.be/hOesa0XtqLE]] 
 
 [[file:images/persistent_laser_glitch.PNG]] 
 
