@@ -7,7 +7,7 @@
 *Type:* Personal Project 
 
 * Description 
-I am one of the lead developers for a laser puzzle game. My goals consist of developing the laser physics, interactions as well as developing the various laser beam "modifiers" that the game has to offer including componenets like prisms, combiners and beam splitters (all of which are explained in detail in the logs)
+I am one of the lead developers for a laser puzzle game. My goals consist of developing the laser physics, interactions as well as developing the various laser beam "modifiers" that the game has to offer including components like prisms, combiners and beam splitters (all of which are explained in detail in the logs)
 
 
 This game was made in the Godot engine along with GD script being used
@@ -58,16 +58,16 @@ Video of charge door puzzle test: [[https://youtu.be/friZ54WhYjk]]
 
 Image of charge door puzzle test
 
-* Working with generating and seperating different colors 
+* Working with generating and separating different colors 
 
-Starting to experiment with different colored lasers as well combining and seperating them
+Starting to experiment with different colored lasers as well combining and separating them
 
 I made generic splitter device to try to split beam paths and modulate the color of the laser beams at the same time, as seen in the image below it was a success
 
 
 [[file:images/color%20mod%20and%20splitting.jpeg]]  
 
-Image of color seperation at work
+Image of color separation at work
 
 
 * Beam Splitter, Combiner and Prism  
